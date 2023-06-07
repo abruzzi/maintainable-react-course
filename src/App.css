@@ -1,0 +1,44 @@
+.container {
+  width: 480px;
+  margin: 2rem auto;
+}
+
+h1 {
+  margin-block: 0.5rem;
+}
+
+.contact {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.contact {
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  border: 1px solid #fff;
+  border-radius: 6px;
+  box-shadow: 0 0 4px -4px #fff;
+}
+
+.team {
+  color: #e23e57;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul {
+  margin-left: 1rem;
+}
+
+.leafNode {
+  margin-left: 1rem;
+}
